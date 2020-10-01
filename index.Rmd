@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Author Names (Personal Github Accounts Hyperlinked): [Brandon Nathasingh](https://github.com/bnathasingh), [Katie Lee](https://github.com/katielee38)
 
-![Brandon's hometown](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/500px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg)
+![Brandon's hometown: Fort Lauderdale, Florida](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/500px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg)
